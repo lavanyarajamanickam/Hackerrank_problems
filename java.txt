@@ -1,0 +1,33 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+class TimeConverter
+{
+    public double HrToMin(double Hours)
+    {
+        double Minutes=
+    }
+}
+import Converterpack.*
+import java.util.Scanner;
+class Converter
+{
+    double CurrentExchange;
+    int choice,choice1,choice2,choice3;
+    double inr,km,hr;
+    char ans='y';
+}
+do
+{
+    System.out.println("__Main menu__");
+    System.out.println("1.Currency Converter \n 2.Distane Converter\n 3.Time Converter")
+    System.out.println("Enter your choice");
+    Scanner input=new Scanner(System.in):
+    choice=input.nextInt();
+    
+}
+        System.out.println("Try programiz.pro");
+    }
+}
